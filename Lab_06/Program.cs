@@ -10,6 +10,7 @@ namespace Lab_06
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ivashchuk Vladyslav TM-81");
         }
     }
 }
